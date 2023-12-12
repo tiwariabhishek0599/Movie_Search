@@ -1,6 +1,6 @@
 # Movie Search
 
-# Project Link: [Click Here](https://tiwariabhishek0599.github.io/Movie_Search/)
+# Hosted Link: [Click Here](https://tiwariabhishek0599.github.io/Movie_Search/)
 
 ![Screenshot 2023-12-12 at 2 05 52 PM](https://github.com/tiwariabhishek0599/Movie_Search/assets/118967913/965a3fc4-89a3-4f9b-8db2-ee840e282368)
 ![Screenshot 2023-12-12 at 2 05 59 PM](https://github.com/tiwariabhishek0599/Movie_Search/assets/118967913/87478fa4-7654-482d-a20c-328e245548cc)
